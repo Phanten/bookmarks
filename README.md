@@ -14,3 +14,10 @@ A collection of our dev bookmarks. Contribute by submitting Pull Requests!
 
 > [Locust.io](http://locust.io/) <br>
 > An open source load testing tool written in python. Highly hackable, custimizable and supports distributed tests. 
+
+<!-- -->
+
+> [Airborne](https://github.com/brooklynDev/airborne) <br>
+> More intelligible RSpec tests for Rails.
+
+<!-- -->
