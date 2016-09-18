@@ -9,3 +9,6 @@ A collection of our dev bookmarks. Contribute by submitting Pull Requests!
 
 > [Deployd](https://github.com/deployd/deployd)<br>
 > A mostly visual, advanced API builder
+
+> [Locust.io](http://locust.io/) <br>
+> An open source load testing tool written in python. Highly hackable, custimizable and supports distributed tests. 
