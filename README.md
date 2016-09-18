@@ -27,3 +27,5 @@ A collection of our dev bookmarks. Contribute by submitting Pull Requests!
 
 <!-- -->
 
+> [Slick](http://slick.lightbend.com/) <br>
+> Functional-relational mapping for Scala. Lets you access data like Scala collections, write queries in Scala.
