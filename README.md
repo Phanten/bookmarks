@@ -21,3 +21,9 @@ A collection of our dev bookmarks. Contribute by submitting Pull Requests!
 > More intelligible RSpec tests for Rails.
 
 <!-- -->
+
+> [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) <br>
+> A highly successful git branching model. Should be shipped with git. Definitely take a look if you haven't been using any branching models.
+
+<!-- -->
+
